@@ -1,1 +1,2 @@
-# CSharp_Tasks-
+# CSharp_Tasks
+Detailed explanation on C# tasks.pdf 
